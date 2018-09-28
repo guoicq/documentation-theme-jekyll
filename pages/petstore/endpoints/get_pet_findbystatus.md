@@ -33,9 +33,9 @@ Content types:
 
 ## Examples
 <ul id="profileTabs" class="nav nav-tabs">
-    <li class="active"><a style="font-size: 120%;" href="#python" data-toggle="tab">Python</a></li>
-    <li><a style="font-size: 120%;" href="#postman" data-toggle="tab">Postman</a></li>
-    <li><a style="font-size: 120%;" href="#curl" data-toggle="tab">cURL</a></li>
+    <li class="active"><a href="#python" data-toggle="tab">Python</a></li>
+    <li><a href="#postman" data-toggle="tab">Postman</a></li>
+    <li><a href="#curl" data-toggle="tab">cURL</a></li>
 </ul>
 
 <div class="tab-content">
