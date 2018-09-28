@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_post_pet_id_uploadimage.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /pet/{petId}/uploadImage
 method: post

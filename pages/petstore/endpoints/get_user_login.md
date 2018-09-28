@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_user_login.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /user/login
 method: get

@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_pet_findbystatus.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /pet/findByStatus
 method: get

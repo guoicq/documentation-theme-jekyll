@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_user_logout.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /user/logout
 method: get

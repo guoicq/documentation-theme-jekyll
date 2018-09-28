@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_put_pet.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /pet
 method: put

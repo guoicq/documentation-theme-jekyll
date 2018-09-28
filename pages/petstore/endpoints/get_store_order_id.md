@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_store_order_id.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /store/order/{orderId}
 method: get

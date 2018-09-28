@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_pet_findbytags.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /pet/findByTags
 method: get

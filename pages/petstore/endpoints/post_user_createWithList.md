@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_post_user_createwithlist.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /user/createWithList
 method: post

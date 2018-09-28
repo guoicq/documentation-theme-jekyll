@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_get_store_inventory.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /store/inventory
 method: get

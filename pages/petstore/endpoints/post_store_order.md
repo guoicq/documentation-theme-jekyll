@@ -5,6 +5,7 @@ summary:
 sidebar: mydoc_sidebar
 permalink: api_post_store_order.html
 folder: petstore
+toc: false
 swaggerfile: petstore
 swaggerkey: /store/order
 method: post
