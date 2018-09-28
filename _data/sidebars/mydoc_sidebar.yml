@@ -293,3 +293,121 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
+
+  - title: API docs example
+    output: web
+    folderitems:
+
+    - title: Introduction
+      url: /api_introduction.html
+      output: web
+
+      subfolders:
+      - title: Endpoints
+        output: web
+        subfolderitems:
+
+        - title: POST /pet
+          url: /api_post_pet.html
+          output: web
+
+        - title: PUT /pet
+          url: /api_put_pet.html
+          output: web
+
+        - title: GET /pet/findByStatus
+          url: /api_get_pet_findbystatus.html
+          output: web
+
+        - title: GET /pet/findByTags
+          url: /api_get_pet_findbytags.html
+          output: web
+
+        - title: GET /pet/{petId}
+          url: /api_get_pet_id.html
+          output: web
+
+        - title: POST /pet/{petId}
+          url: /api_post_pet_id.html
+          output: web
+
+        - title: DELETE /pet/{petId}
+          url: /api_delete_pet_id.html
+          output: web
+
+        - title: POST /pet/{petId}/uploadImage
+          url: /api_post_pet_id_uploadimage.html
+          output: web
+
+        - title: GET /store/inventory
+          url: /api_get_store_inventory.html
+          output: web
+
+        - title: POST /store/order
+          url: /api_post_store_order.html
+          output: web
+
+        - title: GET /store/order/{orderId}
+          url: /api_get_store_order_id.html
+          output: web
+
+        - title: DELETE /store/order/{orderId}
+          url: /api_delete_store_order_id.html
+          output: web
+
+        - title: POST /user
+          url: /api_post_user.html
+          output: web
+
+        - title: POST /user/createWithArray
+          url: /api_post_user_createwitharray.html
+          output: web
+
+        - title: POST /user/createWithList
+          url: /api_post_user_createwithlist.html
+          output: web
+
+        - title: GET /user/login
+          url: /api_get_user_login.html
+          output: web
+
+        - title: GET /user/logout
+          url: /api_get_user_logout.html
+          output: web
+
+        - title: GET /user/{username}
+          url: /api_get_user_id.html
+          output: web
+
+        - title: PUT /user/{username}
+          url: /api_put_user_id.html
+          output: web
+
+        - title: DELETE /user/{username}
+          url: /api_delete_user_id.html
+          output: web
+
+      - title: Resources
+        output: web
+        subfolderitems:
+
+        - title: Category model
+          url: /api_category.html
+          output: web
+
+        - title: Order model
+          url: /api_order.html
+          output: web
+
+        - title: Pet model
+          url: /api_pet.html
+          output: web
+
+        - title: Tag model
+          url: /api_tag.html
+          output: web
+
+        - title: User model
+          url: /api_user.html
+          output: web
+
